@@ -1,9 +1,8 @@
 @font-face {
 	font-family: "tangerine";
-	font-style: normal;
 	font-weight: normal;
 	src:
-		url("https://kalrish.github.io/webfonts/tangerine/regular/woff2") format("woff2"),
-		url("https://kalrish.github.io/webfonts/tangerine/regular/woff") format("woff"),
-		url("https://kalrish.github.io/webfonts/tangerine/regular/ttf") format("truetype");
+		url("/tangerine/regular/woff2") format("woff2"),
+		url("/tangerine/regular/woff") format("woff"),
+		url("/tangerine/regular/ttf") format("truetype");
 }

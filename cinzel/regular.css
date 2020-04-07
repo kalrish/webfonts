@@ -2,7 +2,7 @@
 	font-family: Cinzel;
 	font-weight: normal;
 	src:
-		url("https://kalrish.github.io/webfonts/cinzel/regular/woff2") format("woff2"),
-		url("https://kalrish.github.io/webfonts/cinzel/regular/woff") format("woff"),
-		url("https://kalrish.github.io/webfonts/cinzel/regular/otf") format("opentype");
+		url("/cinzel/regular/woff2") format("woff2"),
+		url("/cinzel/regular/woff") format("woff"),
+		url("/cinzel/regular/otf") format("opentype");
 }
