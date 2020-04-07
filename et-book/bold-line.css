@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "et-book";
+	font-style: normal;
+	font-weight: bold;
+	src:
+		url("/et-book/bold-line/woff2") format("woff2"),
+		url("/et-book/bold-line/woff") format("woff"),
+		url("/et-book/bold-line/ttf") format("truetype"),
+		url("/et-book/bold-line/svg#etbookromanosf") format("svg"),
+		url("/et-book/bold-line/eot") format("embedded-opentype");
+}
