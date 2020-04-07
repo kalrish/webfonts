@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "tangerine";
+	font-style: normal;
+	font-weight: bold;
+	src:
+		url("bold/woff2") format("woff2"),
+		url("bold/woff") format("woff"),
+		url("bold/ttf") format("truetype");
+}
